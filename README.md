@@ -120,8 +120,8 @@ travel-planner/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/travel-planner.git
-   cd travel-planner
+   git clone https://github.com/randombytebit/Travel-Planner-App.git
+   cd Travel-Planner-App
    ```
 
 2. **Install dependencies**
