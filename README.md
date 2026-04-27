@@ -166,7 +166,7 @@ Home → Register → Login → Dashboard → Add Trip
 
 ---
 
-## 📡 REST API Reference
+## REST API Reference
 
 The application exposes a RESTful API for user management at `/users`.
 
