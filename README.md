@@ -250,11 +250,11 @@ curl -X DELETE http://localhost:3001/users/{USER_ID}
 
 | Name | Student ID | Role |
 |------|-----------|------|
-| **Ng Man Hei** *(Group Leader)* | 13505304 | |
-| Tse Man Hin | 13515463 | |
-| Wong Sin Ngai | 13588511 | |
-| Pau Ka Lok | 13068093 | |
-| Leung Aidan | 13626010 | |
+| **Ng Man Hei** *(Group Leader)* | 13505304 | Project Manager |
+| Tse Man Hin | 13515463 | Frontend developer | 
+| Wong Sin Ngai | 13588511 | Full-stack developer |
+| Pau Ka Lok | 13068093 | Backend developer |
+| Leung Aidan | 13626010 | Backend developer |
 
 ---
 
